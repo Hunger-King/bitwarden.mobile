@@ -854,7 +854,7 @@
     <value>若要繼續，請將您的 YubiKey 靠在裝置的背面或者將 YubiKey 插入您裝置的 USB 連接埠，然後按下按鈕。</value>
   </data>
   <data name="YubiKeyTitle" xml:space="preserve">
-    <value>YubiKey 安全鑰匙</value>
+    <value>YubiKey 安全金鑰</value>
     <comment>"YubiKey" is the product name and should not be translated.</comment>
   </data>
   <data name="AddNewAttachment" xml:space="preserve">
@@ -2110,10 +2110,10 @@
     <value>FIDO2 WebAuthn</value>
   </data>
   <data name="Fido2Instruction" xml:space="preserve">
-    <value>若要繼續，請準備好 FIDO2 WebAuthn 相容的安全鑰匙，在下個畫面按下 [驗證 WebAuthn]，接著遵循指引。</value>
+    <value>若要繼續，請準備好 FIDO2 WebAuthn 相容的安全金鑰，在下個畫面按下 [驗證 WebAuthn]，接著依照指示操作。</value>
   </data>
   <data name="Fido2Desc" xml:space="preserve">
-    <value>使用 FIDO2 WebAuthn 驗證，您可以使用外部安全鑰匙進行驗證。</value>
+    <value>使用 FIDO2 WebAuthn 驗證，您可以使用外部安全金鑰進行驗證。</value>
   </data>
   <data name="Fido2AuthenticateWebAuthn" xml:space="preserve">
     <value>驗證 WebAuthn</value>
@@ -2500,7 +2500,7 @@
     <value>使用其他裝置登入</value>
   </data>
   <data name="LogInInitiated" xml:space="preserve">
-    <value>登入已發起</value>
+    <value>已啟動登入</value>
   </data>
   <data name="ANotificationHasBeenSentToYourDevice" xml:space="preserve">
     <value>通知已傳送至您的裝置。</value>
