@@ -229,7 +229,7 @@
     <value>資料夾</value>
   </data>
   <data name="FolderUpdated" xml:space="preserve">
-    <value>已更新資料夾。</value>
+    <value>已更新資料夾</value>
   </data>
   <data name="GoToWebsite" xml:space="preserve">
     <value>前往網站</value>
@@ -375,7 +375,7 @@
     <comment>Validation message for when a form field is left blank and is required to be entered.</comment>
   </data>
   <data name="ValueHasBeenCopied" xml:space="preserve">
-    <value>{0} 已複製。</value>
+    <value>{0} 已複製</value>
     <comment>Confirmation message after successfully copying a value to the clipboard.</comment>
   </data>
   <data name="VerifyFingerprint" xml:space="preserve">
@@ -480,7 +480,7 @@
     <value>啟用 App 延伸功能</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>在 Safari 中，使用分享圖示尋找 Bitwarden（提示：在選單最底行的右邊）。 </value>
+    <value>在 Safari 中，使用分享圖示尋找 Bitwarden（提示：在選單最底行的右邊）。</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -833,7 +833,7 @@
     <comment>Remember my two-step login</comment>
   </data>
   <data name="SendVerificationCodeAgain" xml:space="preserve">
-    <value>再次傳送​​包含驗證碼的電子郵件</value>
+    <value>再次傳送包含驗證碼的電子郵件</value>
     <comment>For 2FA</comment>
   </data>
   <data name="TwoStepLoginOptions" xml:space="preserve">
@@ -843,7 +843,7 @@
     <value>使用另一種兩步驟登入方法</value>
   </data>
   <data name="VerificationEmailNotSent" xml:space="preserve">
-    <value>無法傳送​​驗證電子郵件。請再試一次。</value>
+    <value>無法傳送驗證電子郵件。請再試一次。</value>
     <comment>For 2FA</comment>
   </data>
   <data name="VerificationEmailSent" xml:space="preserve">
@@ -1089,13 +1089,13 @@
     <value>中間名</value>
   </data>
   <data name="Mr" xml:space="preserve">
-    <value>Mr</value>
+    <value>先生</value>
   </data>
   <data name="Mrs" xml:space="preserve">
-    <value>Mrs</value>
+    <value>女士（已婚）</value>
   </data>
   <data name="Ms" xml:space="preserve">
-    <value>Ms</value>
+    <value>女士（未婚）</value>
   </data>
   <data name="Mx" xml:space="preserve">
     <value>Mx</value>
