@@ -1,5 +1,5 @@
-"ThereAreNoItemsToList" = "沒有可列出的項目。";
-"ToViewVerificationCodesUpgradeToPremium" = "請升級到 Premium 版，才能檢視驗證碼";
+"ThereAreNoItemsToList" = "沒有可列出的項目";
+"ToViewVerificationCodesUpgradeToPremium" = "請升級到進階版，才能檢視驗證碼";
 "Add2FactorAutenticationToAnItemToViewVerificationCodes" = "為項目加入雙因素驗證機制，即可檢視驗證碼";
 "LogInToBitwardenOnYourIPhoneToViewVerificationCodes" = "在您的 iPhone 登入 Bitwarden 即可檢視驗證碼";
 "SyncingItemsContainingVerificationCodes" = "同步含有驗證碼的項目";
