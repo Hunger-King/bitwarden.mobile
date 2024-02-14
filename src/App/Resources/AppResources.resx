@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -2534,7 +2534,7 @@ Do you want to switch to this account?</value>
     <value>Requests declined</value>
   </data>
   <data name="NoPendingRequests" xml:space="preserve">
-    <value>No pending requests</value>  
+    <value>No pending requests</value>
   </data>
   <data name="EnableCamerPermissionToUseTheScanner" xml:space="preserve">
     <value>Enable camera permission to use the scanner</value>
@@ -2866,7 +2866,7 @@ Do you want to switch to this account?</value>
     <value>Your organization permissions were updated, requiring you to set a master password.</value>
   </data>
   <data name="YourOrganizationRequiresYouToSetAMasterPassword" xml:space="preserve">
-    <value>Your organization requires you to set a master password.</value> 
+    <value>Your organization requires you to set a master password.</value>
   </data>
   <data name="SetUpAnUnlockOptionToChangeYourVaultTimeoutAction" xml:space="preserve">
     <value>Set up an unlock option to change your vault timeout action.</value>
