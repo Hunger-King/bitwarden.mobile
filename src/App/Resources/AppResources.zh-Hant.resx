@@ -1378,10 +1378,10 @@
     <value>搜尋集合</value>
   </data>
   <data name="SearchFileSends" xml:space="preserve">
-    <value>搜尋檔案 Send</value>
+    <value>搜尋檔案傳送</value>
   </data>
   <data name="SearchTextSends" xml:space="preserve">
-    <value>搜尋文字 Send</value>
+    <value>搜尋文字傳送</value>
   </data>
   <data name="SearchGroup" xml:space="preserve">
     <value>搜尋 {0}</value>
@@ -1858,19 +1858,19 @@
     <value>組織政策正在影響您的擁有權選項。</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
+    <value>傳送</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>所有 Send</value>
+    <value>所有傳送</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Send</value>
+    <value>傳送</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>用於描述此 Send 的易記名稱。</value>
+    <value>用於描述此傳送的易記名稱。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="Text" xml:space="preserve">
@@ -1883,7 +1883,7 @@
     <value>您想要傳送的文字。</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>存取此 Send 時，將預設隱藏文字</value>
+    <value>存取此傳送時，將預設隱藏文字</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
@@ -1911,7 +1911,7 @@
     <value>刪除時間</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>此 Send 將在指定的日期和時間後被永久刪除。</value>
+    <value>此傳送將在指定的日期和時間後被永久刪除。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
@@ -1924,7 +1924,7 @@
     <value>逾期時間</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>如果設定此選項，對此 Send 的存取將在指定的日期和時間後逾期。</value>
+    <value>如果設定此選項，對此傳送的存取將在指定的日期和時間後逾期。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
@@ -1934,7 +1934,7 @@
     <value>最大存取次數</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>如果設定此選項，當達到最大存取次數時，使用者將無法再次存取此 Send。</value>
+    <value>如果設定此選項，當達到最大存取次數時，使用者將無法再次存取此傳送。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
@@ -1947,7 +1947,7 @@
     <value>新密碼</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>選用。使用者需提供密碼才能存取此 Send。</value>
+    <value>選用。使用者需提供密碼才能存取此傳送。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
@@ -1963,19 +1963,19 @@
     <value>已移除密碼。</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>關於此 Send 的私人備註。</value>
+    <value>關於此傳送的私人備註。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>停用此 Send 以阻止任何人存取</value>
+    <value>停用此傳送以阻止任何人存取</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>您的帳戶中沒有 Send。</value>
+    <value>您的帳戶中沒有傳送。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>新增 Send</value>
+    <value>新增傳送</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
@@ -1985,23 +1985,23 @@
     <value>共用連結</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Send 連結</value>
+    <value>傳送連結</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>搜尋 Send</value>
+    <value>搜尋傳送</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>編輯 Send</value>
+    <value>編輯傳送</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>建立新 Send</value>
+    <value>建立新傳送</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>您確定要刪除此 Send 嗎？</value>
+    <value>您確定要刪除此傳送嗎？</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
@@ -2393,7 +2393,7 @@
     <value>隨機單字</value>
   </data>
   <data name="EmailRequiredParenthesis" xml:space="preserve">
-    <value>Email（必填）</value>
+    <value>電子郵件（必填）</value>
   </data>
   <data name="DomainNameRequiredParenthesis" xml:space="preserve">
     <value>網域名稱（必填）</value>
