@@ -203,7 +203,7 @@
     <comment>Title for your favorite items in the vault.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
-    <value>Bug 回報</value>
+    <value>回報程式錯誤</value>
   </data>
   <data name="FileBugReportDescription" xml:space="preserve">
     <value>到我們的 GitHub 儲存庫中開啟一個話題。</value>
@@ -216,13 +216,13 @@
     <comment>Label for a folder.</comment>
   </data>
   <data name="FolderCreated" xml:space="preserve">
-    <value>已新增資料夾。</value>
+    <value>資料夾已新增。</value>
   </data>
   <data name="FolderDeleted" xml:space="preserve">
     <value>已刪除資料夾。</value>
   </data>
   <data name="FolderNone" xml:space="preserve">
-    <value>（未分類）</value>
+    <value>無資料夾</value>
     <comment>Items that have no folder specified go in this special "catch-all" folder.</comment>
   </data>
   <data name="Folders" xml:space="preserve">
@@ -413,7 +413,7 @@
     <value>新增項目</value>
   </data>
   <data name="AppExtension" xml:space="preserve">
-    <value>App 延伸功能</value>
+    <value>應用程式延伸功能</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
     <value>使用 Bitwarden 無障礙服務，在應用程式和網站中自動填入您的登入資料。</value>
@@ -425,10 +425,10 @@
     <value>避免易混淆的字元</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden App 延伸功能</value>
+    <value>Bitwarden 應用程式延伸功能</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Bitwarden App 延伸功能是新增登入資料至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden App 延伸功能的使用資訊。</value>
+    <value>Bitwarden 應用程式延伸功能是新增登入資料至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 應用程式延伸功能的使用資訊。</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
     <value>在 Safari 和其他應用程式中使用 Bitwarden 自動填入登入資料。</value>
@@ -471,13 +471,13 @@
     <value>請輸入您的帳户電子郵件地址以接收主密碼提示。</value>
   </data>
   <data name="ExntesionReenable" xml:space="preserve">
-    <value>重新啟用 App 延伸功能</value>
+    <value>重新啟用應用程式延伸功能</value>
   </data>
   <data name="ExtensionAlmostDone" xml:space="preserve">
     <value>快要完成了！</value>
   </data>
   <data name="ExtensionEnable" xml:space="preserve">
-    <value>啟用 App 延伸功能</value>
+    <value>啟用應用程式延伸功能</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
     <value>在 Safari 中，使用分享圖示尋找 Bitwarden（提示：在選單最底行的右邊）。</value>
@@ -601,7 +601,7 @@
     <value>已新增項目</value>
   </data>
   <data name="NoFavorites" xml:space="preserve">
-    <value>您的密碼庫中沒有收藏。</value>
+    <value>您的密碼庫中沒有我的最愛。</value>
   </data>
   <data name="NoItems" xml:space="preserve">
     <value>您的密碼庫中沒有登入資料。</value>
@@ -734,7 +734,7 @@
     <value>圖示</value>
   </data>
   <data name="Translations" xml:space="preserve">
-    <value>譯者</value>
+    <value>翻譯</value>
   </data>
   <data name="ItemsForUri" xml:space="preserve">
     <value>{0} 的項目</value>
@@ -881,7 +881,7 @@
     <value>驗證器金鑰 (TOTP)</value>
   </data>
   <data name="VerificationCodeTotp" xml:space="preserve">
-    <value>驗證碼 (TOTP)</value>
+    <value>驗證碼（TOTP）</value>
     <comment>Totp code label</comment>
   </data>
   <data name="AuthenticatorKeyAdded" xml:space="preserve">
@@ -916,10 +916,10 @@
     <value>進階會員才可使用此功能。</value>
   </data>
   <data name="AttachementAdded" xml:space="preserve">
-    <value>已新增附件</value>
+    <value>附件已新增</value>
   </data>
   <data name="AttachmentDeleted" xml:space="preserve">
-    <value>已刪除附件</value>
+    <value>附件已刪除</value>
   </data>
   <data name="ChooseFile" xml:space="preserve">
     <value>選擇檔案</value>
@@ -1002,7 +1002,7 @@
     <value>安全代碼</value>
   </data>
   <data name="TypeCard" xml:space="preserve">
-    <value>支付卡</value>
+    <value>信用卡</value>
   </data>
   <data name="TypeIdentity" xml:space="preserve">
     <value>身分</value>
@@ -1047,7 +1047,7 @@
     <value>十二月</value>
   </data>
   <data name="Dr" xml:space="preserve">
-    <value>Dr</value>
+    <value>博士</value>
   </data>
   <data name="ExpirationMonth" xml:space="preserve">
     <value>逾期月份</value>
@@ -1098,7 +1098,7 @@
     <value>女士（未婚）</value>
   </data>
   <data name="Mx" xml:space="preserve">
-    <value>Mx</value>
+    <value>非二元</value>
   </data>
   <data name="November" xml:space="preserve">
     <value>十一月</value>
@@ -1122,7 +1122,7 @@
     <value>州/省</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>稱呼</value>
+    <value>稱謂</value>
   </data>
   <data name="ZipPostalCode" xml:space="preserve">
     <value>郵遞區號</value>
@@ -1219,10 +1219,10 @@
     <value>移除</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>新增網址</value>
+    <value>新增統一資源標識符（URI）</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>網址 {0}</value>
+    <value>統一資源標識符（URI） {0}</value>
     <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
@@ -1283,7 +1283,7 @@
     <comment>ex. Date this item was updated</comment>
   </data>
   <data name="AutofillActivated" xml:space="preserve">
-    <value>已啟用自動填入！</value>
+    <value>自動填入已啟用！</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
     <value>您必須先登入 Bitwarden 應用程式，才可以使用自動填入功能。</value>
@@ -1375,13 +1375,13 @@
     <value>沒有可列出的項目。</value>
   </data>
   <data name="SearchCollection" xml:space="preserve">
-    <value>搜尋集合</value>
+    <value>搜尋分類</value>
   </data>
   <data name="SearchFileSends" xml:space="preserve">
-    <value>搜尋檔案傳送</value>
+    <value>搜尋 Send 檔案</value>
   </data>
   <data name="SearchTextSends" xml:space="preserve">
-    <value>搜尋文字傳送</value>
+    <value>搜尋 Send 文字</value>
   </data>
   <data name="SearchGroup" xml:space="preserve">
     <value>搜尋 {0}</value>
@@ -1400,7 +1400,7 @@
     <value>其他設定</value>
   </data>
   <data name="Ownership" xml:space="preserve">
-    <value>擁有權</value>
+    <value>所有權</value>
   </data>
   <data name="WhoOwnsThisItem" xml:space="preserve">
     <value>誰擁有這個項目？</value>
@@ -1413,7 +1413,7 @@
     <comment>ex: Item moved to Organization.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
-    <value>已共用項目。</value>
+    <value>項目已共用。</value>
   </data>
   <data name="SelectOneCollection" xml:space="preserve">
     <value>您必須至少選擇一個分類。</value>
@@ -1431,7 +1431,7 @@
     <value>沒有可列出的組織。</value>
   </data>
   <data name="MoveToOrgDesc" xml:space="preserve">
-    <value>選擇您希望將這個項目移動至哪個組織。項目的擁有權將會轉移至該組織。轉移之後，您將不再是此項目的直接擁有者。</value>
+    <value>選擇您希望將這個項目移動至哪個組織。項目的所有權將會轉移至該組織。轉移之後，您將不再是此項目的直接擁有者。</value>
   </data>
   <data name="NumberOfWords" xml:space="preserve">
     <value>單字數量</value>
@@ -1530,7 +1530,7 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>預設的網址一致性偵測方式</value>
+    <value>預設的統一資源標識符（URI）一致性偵測方式</value>
     <comment>Default URI match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
@@ -1566,11 +1566,11 @@
     <comment>The color black</comment>
   </data>
   <data name="Nord" xml:space="preserve">
-    <value>Nord</value>
+    <value>Nord 主題</value>
     <comment>'Nord' is the name of a specific color scheme. It should not be translated.</comment>
   </data>
   <data name="SolarizedDark" xml:space="preserve">
-    <value>Solarized Dark 主題</value>
+    <value>Solarized 深色主題</value>
     <comment>'Solarized Dark' is the name of a specific color scheme. It should not be translated.</comment>
   </data>
   <data name="AutofillBlockedUris" xml:space="preserve">
@@ -1678,11 +1678,11 @@
     <value>已成功匯出密碼庫</value>
   </data>
   <data name="Clone" xml:space="preserve">
-    <value>克隆</value>
+    <value>拓製</value>
     <comment>Clone an entity (verb).</comment>
   </data>
   <data name="PasswordGeneratorPolicyInEffect" xml:space="preserve">
-    <value>一個或多個組織原則正影響密碼產生器設定。</value>
+    <value>一個或多個組織原則正影響密碼產生器設定</value>
   </data>
   <data name="Open" xml:space="preserve">
     <value>開啟</value>
@@ -1801,7 +1801,8 @@
     <value>正在載入</value>
   </data>
   <data name="AcceptPolicies" xml:space="preserve">
-    <value>開啟此開關代表您同意下列項目：</value>
+    <value>開啟此開關代表您同意下列項目：
+</value>
   </data>
   <data name="AcceptPoliciesError" xml:space="preserve">
     <value>尚未接受服務條款與隱私權政策。</value>
@@ -1813,7 +1814,7 @@
     <value>隱私權政策</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden 需要您的注意 - 請到 Bitwarden 設定的「自動填入服務」中啟用「Draw-Over」</value>
+    <value>Bitwarden 需要您的注意 - 請到 Bitwarden 設定的「自動填入服務」中啟用「覆蓋（Draw-Over）」</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>自動填入服務</value>
@@ -1831,16 +1832,16 @@
     <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資料。 啟用後，將在選擇登入欄位時顯示彈出式視窗。</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資料。（需同時啟用 Draw-Over 功能）</value>
+    <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資料。（需同時啟用覆蓋（Draw-Over）功能）</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務來使用自動填入快速控制圖塊，和/或使用 Draw-Over 來顯示彈出式視窗（如果已開啟）。</value>
+    <value>使用 Bitwarden 無障礙服務來使用自動填入快速控制圖塊，和/或使用覆蓋（Draw-Over）來顯示彈出式視窗（如果已開啟）。</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
-    <value>需要使用自動填入快速控制圖塊，或透過使用 Draw-Over（如果已開啟）來提升自動填入服務。</value>
+    <value>需要使用自動填入快速控制圖塊，或透過使用覆蓋（Draw-Over）（如果已開啟）來提升自動填入服務。</value>
   </data>
   <data name="DrawOver" xml:space="preserve">
-    <value>使用 Draw-Over</value>
+    <value>使用覆蓋（Draw-Over）</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
     <value>啟用後，在選擇登入欄位時將允許 Bitwarden 無障礙服務顯示彈出式視窗。</value>
@@ -1852,25 +1853,25 @@
     <value>若啟用，無障礙將顯示一個彈出式視窗以增強不支援 Android 自動填入框架的舊應用程式的自動填入服務。</value>
   </data>
   <data name="PersonalOwnershipSubmitError" xml:space="preserve">
-    <value>由於某個企業政策，您被限制並且不得儲存項目至您的個人密碼庫。將擁有權變更為組織，並選擇可用的分類。</value>
+    <value>由於某個企業政策，您被限制並且不得儲存項目至您的個人密碼庫。將所有權變更為組織，並選擇可用的分類。</value>
   </data>
   <data name="PersonalOwnershipPolicyInEffect" xml:space="preserve">
-    <value>組織政策正在影響您的擁有權選項。</value>
+    <value>組織政策正在影響您的所有權選項。</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>傳送</value>
+    <value>Send</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>所有傳送</value>
+    <value>所有 Send</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>傳送</value>
+    <value>Send</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>用於描述此傳送的易記名稱。</value>
+    <value>用於描述此 Send 的易記名稱。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="Text" xml:space="preserve">
@@ -1883,7 +1884,7 @@
     <value>您想要傳送的文字。</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>存取此傳送時，將預設隱藏文字</value>
+    <value>存取此 Send 時，將預設隱藏文字</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
@@ -1911,7 +1912,7 @@
     <value>刪除時間</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>此傳送將在指定的日期和時間後被永久刪除。</value>
+    <value>此 Send 將在指定的日期和時間後被永久刪除。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
@@ -1924,7 +1925,7 @@
     <value>逾期時間</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>如果設定此選項，對此傳送的存取將在指定的日期和時間後逾期。</value>
+    <value>如果設定此選項，對此 Send 的存取將在指定的日期和時間後逾期。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
@@ -1934,7 +1935,7 @@
     <value>最大存取次數</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>如果設定此選項，當達到最大存取次數時，使用者將無法再次存取此傳送。</value>
+    <value>如果設定此選項，當達到最大存取次數時，使用者將無法再次存取此 Send。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
@@ -1947,7 +1948,7 @@
     <value>新密碼</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>選用。使用者需提供密碼才能存取此傳送。</value>
+    <value>可選擇要求使用者提供密碼才能存取此 Send。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
@@ -1963,7 +1964,7 @@
     <value>已移除密碼。</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>關於此傳送的私人備註。</value>
+    <value>關於此 Send 的私人備註。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
@@ -1993,15 +1994,15 @@
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>編輯傳送</value>
+    <value>編輯 Send</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>建立新傳送</value>
+    <value>建立新 Send</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>您確定要刪除此傳送嗎？</value>
+    <value>您確定要刪除此 Send 嗎？</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
@@ -2009,11 +2010,11 @@
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>已更新 Send。</value>
+    <value>Send 已儲存</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>已建立新的 Send</value>
+    <value>Send 已建立</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
@@ -2054,7 +2055,7 @@
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>免費帳戶僅限於共用文字。若想使用檔案 Send，需要進階會員資格。</value>
+    <value>免費帳戶僅限於共用文字。若想使用檔案傳送，需要進階會員資格。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
@@ -2354,7 +2355,7 @@
     <value>批准登入要求</value>
   </data>
   <data name="UseThisDeviceToApproveLoginRequestsMadeFromOtherDevices" xml:space="preserve">
-    <value>使用此裝置批准來自其他裝置的登入要求。</value>
+    <value>使用此裝置批准來自其他裝置的登入要求</value>
   </data>
   <data name="AllowNotifications" xml:space="preserve">
     <value>允許通知</value>
@@ -2381,7 +2382,7 @@
     <value>使用者名稱類型</value>
   </data>
   <data name="PlusAddressedEmail" xml:space="preserve">
-    <value>加號地址電子郵件</value>
+    <value>採用子地址的電子郵件</value>
   </data>
   <data name="CatchAllEmail" xml:space="preserve">
     <value>Catch-all 電子郵件</value>
@@ -2521,7 +2522,7 @@
     <value>此請求已失效</value>
   </data>
   <data name="PendingLogInRequests" xml:space="preserve">
-    <value>待處理的登入請求。</value>
+    <value>待處理的登入請求</value>
   </data>
   <data name="DeclineAllRequests" xml:space="preserve">
     <value>拒絕所有要求</value>
@@ -2656,7 +2657,7 @@
     <value>密碼金鑰不會被複製</value>
   </data>
   <data name="ThePasskeyWillNotBeCopiedToTheClonedItemDoYouWantToContinueCloningThisItem" xml:space="preserve">
-    <value>密碼金鑰不會被複製到克隆的項目。 您想繼續克隆該項目嗎？</value>
+    <value>密碼金鑰不會被複製到拓製的項目。 您想繼續拓製該項目嗎？</value>
   </data>
   <data name="CopyApplication" xml:space="preserve">
     <value>複製應用程式</value>
@@ -2680,7 +2681,7 @@
     <value>已要求管理員核准</value>
   </data>
   <data name="YourRequestHasBeenSentToYourAdmin" xml:space="preserve">
-    <value>您的要求已傳送給您的管理員</value>
+    <value>您的要求已傳送給您的管理員。</value>
   </data>
   <data name="YouWillBeNotifiedOnceApproved" xml:space="preserve">
     <value>核准後將通知您。 </value>
@@ -2729,7 +2730,7 @@
     <value>已刪除網址</value>
   </data>
   <data name="ThereAreNoBlockedURIs" xml:space="preserve">
-    <value>沒有被封鎖的網址</value>
+    <value>沒有被封鎖的統一資源標識符（URI）</value>
   </data>
   <data name="TheURIXIsAlreadyBlocked" xml:space="preserve">
     <value>已經封鎖網址 {0}</value>
@@ -2762,7 +2763,7 @@
     <value>Bitwarden 幫助中心</value>
   </data>
   <data name="ContactBitwardenSupport" xml:space="preserve">
-    <value>連絡 Bitwarden 支援</value>
+    <value>連絡 Bitwarden  客服</value>
   </data>
   <data name="CopyAppInformation" xml:space="preserve">
     <value>複製應用程式資訊</value>
@@ -2808,7 +2809,7 @@
     <value>額外選項</value>
   </data>
   <data name="ContinueToWebApp" xml:space="preserve">
-    <value>接下來前往 Web App 嗎？</value>
+    <value>接下來前往網頁應用程式嗎？</value>
   </data>
   <data name="ContinueToX" xml:space="preserve">
     <value>接下來前往 {0} 嗎？</value>
