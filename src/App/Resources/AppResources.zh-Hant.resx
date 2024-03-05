@@ -168,7 +168,7 @@
     <comment>Delete an entity (verb).</comment>
   </data>
   <data name="Deleting" xml:space="preserve">
-    <value>正在刪除...</value>
+    <value>正在刪除…</value>
     <comment>Message shown when interacting with the server</comment>
   </data>
   <data name="DoYouReallyWantToDelete" xml:space="preserve">
@@ -330,7 +330,7 @@
     <value>移動</value>
   </data>
   <data name="Saving" xml:space="preserve">
-    <value>正在儲存...</value>
+    <value>正在儲存…</value>
     <comment>Message shown when interacting with the server</comment>
   </data>
   <data name="Settings" xml:space="preserve">
@@ -458,7 +458,7 @@
     <value>建立帳戶</value>
   </data>
   <data name="CreatingAccount" xml:space="preserve">
-    <value>正在建立帳戶...</value>
+    <value>正在建立帳戶…</value>
     <comment>Message shown when interacting with the server</comment>
   </data>
   <data name="EditItem" xml:space="preserve">
@@ -556,7 +556,7 @@
     <value>選擇登出將會在密碼庫逾時後移除對密碼庫的所有存取權限，若要重新驗證則需連線網路。確定要使用此設定嗎？</value>
   </data>
   <data name="LoggingIn" xml:space="preserve">
-    <value>正在登入...</value>
+    <value>正在登入…</value>
     <comment>Message shown when interacting with the server</comment>
   </data>
   <data name="LoginOrCreateNewAccount" xml:space="preserve">
@@ -678,11 +678,11 @@
     <value>項目已儲存</value>
   </data>
   <data name="Submitting" xml:space="preserve">
-    <value>正在送出...</value>
+    <value>正在送出…</value>
     <comment>Message shown when interacting with the server</comment>
   </data>
   <data name="Syncing" xml:space="preserve">
-    <value>正在同步...</value>
+    <value>正在同步…</value>
     <comment>Message shown when interacting with the server</comment>
   </data>
   <data name="SyncingComplete" xml:space="preserve">
@@ -870,7 +870,7 @@
     <value>您的裝置無法開啟這種類型的檔案。</value>
   </data>
   <data name="Downloading" xml:space="preserve">
-    <value>正在下載...</value>
+    <value>正在下載…</value>
     <comment>Message shown when downloading a file</comment>
   </data>
   <data name="AttachmentLargeWarning" xml:space="preserve">
@@ -1092,10 +1092,10 @@
     <value>先生</value>
   </data>
   <data name="Mrs" xml:space="preserve">
-    <value>女士（已婚）</value>
+    <value>女士</value>
   </data>
   <data name="Ms" xml:space="preserve">
-    <value>女士（未婚）</value>
+    <value>小姐</value>
   </data>
   <data name="Mx" xml:space="preserve">
     <value>非二元</value>
@@ -1344,7 +1344,7 @@
     <comment>Plural form of a URI</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
-    <value>正在檢查密碼...</value>
+    <value>正在檢查密碼…</value>
     <comment>A loading message when doing an exposed password check.</comment>
   </data>
   <data name="CheckPassword" xml:space="preserve">
@@ -1713,7 +1713,7 @@
     <comment>Restores an entity (verb).</comment>
   </data>
   <data name="Restoring" xml:space="preserve">
-    <value>正在還原...</value>
+    <value>正在還原…</value>
     <comment>Message shown when interacting with the server</comment>
   </data>
   <data name="ItemRestored" xml:space="preserve">
@@ -1853,7 +1853,7 @@
     <value>若啟用，無障礙將顯示一個彈出式視窗以增強不支援 Android 自動填入框架的舊應用程式的自動填入服務。</value>
   </data>
   <data name="PersonalOwnershipSubmitError" xml:space="preserve">
-    <value>由於某個企業政策，您被限制並且不得儲存項目至您的個人密碼庫。將所有權變更為組織，並選擇可用的分類。</value>
+    <value>由於生效中的某個企業原則，您不可將項目儲存至您的個人密碼庫。請將所有權變更為組織帳號，並選擇可用的分類。</value>
   </data>
   <data name="PersonalOwnershipPolicyInEffect" xml:space="preserve">
     <value>組織政策正在影響您的所有權選項。</value>
@@ -1881,7 +1881,7 @@
     <value>文字</value>
   </data>
   <data name="TypeTextInfo" xml:space="preserve">
-    <value>您想要傳送的文字。</value>
+    <value>您想以 Send 傳送的文字。</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
     <value>存取此 Send 時，將預設隱藏文字</value>
@@ -1891,7 +1891,7 @@
     <value>檔案</value>
   </data>
   <data name="TypeFileInfo" xml:space="preserve">
-    <value>您想要傳送的檔案。</value>
+    <value>您想要以 Send 傳送的檔案。</value>
   </data>
   <data name="FileTypeIsSelected" xml:space="preserve">
     <value>已選擇檔案類型。</value>
@@ -2126,7 +2126,7 @@
     <value>請確保您的預設瀏覽器支援 WebAuthn，然後再試一次。</value>
   </data>
   <data name="ResetPasswordAutoEnrollInviteWarning" xml:space="preserve">
-    <value>此組織有一個可以為您自動註冊密碼重設的企業原則。註冊後將允許組織管理員變更您的主密碼。</value>
+    <value>此組織有一個可以為您自動進行密碼重設的企業原則。註冊後將允許組織管理員變更您的主密碼。</value>
   </data>
   <data name="VaultTimeoutPolicyInEffect" xml:space="preserve">
     <value>您的組織原則正在影響您的密碼庫逾時時間。密碼庫逾時時間最多可以設定到 {0} 小時 {1} 分鐘。</value>
@@ -2763,7 +2763,7 @@
     <value>Bitwarden 幫助中心</value>
   </data>
   <data name="ContactBitwardenSupport" xml:space="preserve">
-    <value>連絡 Bitwarden  客服</value>
+    <value>連絡 Bitwarden 客服</value>
   </data>
   <data name="CopyAppInformation" xml:space="preserve">
     <value>複製應用程式資訊</value>
