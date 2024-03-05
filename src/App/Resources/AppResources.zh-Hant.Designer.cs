@@ -85,7 +85,8 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 開啟此開關代表您同意下列項目：.
+        ///   Looks up a localized string similar to 開啟此開關代表您同意下列項目：
+        ///.
         /// </summary>
         internal static string AcceptPolicies {
             get {
@@ -121,7 +122,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資料。（需同時啟用 Draw-Over 功能）.
+        ///   Looks up a localized string similar to 使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資料。（需同時啟用覆蓋（Draw-Over）功能）.
         /// </summary>
         internal static string AccessibilityDescription2 {
             get {
@@ -130,7 +131,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 使用 Bitwarden 無障礙服務來使用自動填入快速控制圖塊，和/或使用 Draw-Over 來顯示彈出式視窗（如果已開啟）。.
+        ///   Looks up a localized string similar to 使用 Bitwarden 無障礙服務來使用自動填入快速控制圖塊，和/或使用覆蓋（Draw-Over）來顯示彈出式視窗（如果已開啟）。.
         /// </summary>
         internal static string AccessibilityDescription3 {
             get {
@@ -139,7 +140,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 需要使用自動填入快速控制圖塊，或透過使用 Draw-Over（如果已開啟）來增強自動填入服務。.
+        ///   Looks up a localized string similar to 需要使用自動填入快速控制圖塊，或透過使用覆蓋（Draw-Over）（如果已開啟）來提升自動填入服務。.
         /// </summary>
         internal static string AccessibilityDescription4 {
             get {
@@ -148,7 +149,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden 使用無障礙服務搜寻應用程式和網站中的登入欄位，然後建立適當的欄位 ID，以便在找到應用程式或網站的匹配項目時輸入用戶名和密碼。 我們不會存儲此服務提供給我們的任何資訊，也不會試圖控制憑證文字輸入以外的任何荧幕元素。.
+        ///   Looks up a localized string similar to Bitwarden 使用無障礙服務搜寻應用程式和網站中的登入欄位，然後建立適當的欄位 ID，以便在找到應用程式或網站的匹配項目時輸入用戶名和密碼。 我們不會儲存此服務提供給我們的任何資訊，也不會試圖控制憑證文字輸入以外的任何螢幕元素。.
         /// </summary>
         internal static string AccessibilityDisclosureText {
             get {
@@ -157,7 +158,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden 需要注意 - 請到 Bitwarden 設定的「自動填入服務」中啟用「Draw-Over」.
+        ///   Looks up a localized string similar to Bitwarden 需要您的注意 - 請到 Bitwarden 設定的「自動填入服務」中啟用「覆蓋（Draw-Over）」.
         /// </summary>
         internal static string AccessibilityDrawOverPermissionAlert {
             get {
@@ -346,7 +347,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 新增 Send.
+        ///   Looks up a localized string similar to 新增傳送.
         /// </summary>
         internal static string AddASend {
             get {
@@ -400,7 +401,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 地址 1.
+        ///   Looks up a localized string similar to 第一行地址.
         /// </summary>
         internal static string Address1 {
             get {
@@ -409,7 +410,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 地址 2.
+        ///   Looks up a localized string similar to 第二行地址.
         /// </summary>
         internal static string Address2 {
             get {
@@ -418,7 +419,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 地址 3.
+        ///   Looks up a localized string similar to 第三行地址.
         /// </summary>
         internal static string Address3 {
             get {
@@ -436,7 +437,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 將金輪新增到現有或新的項目.
+        ///   Looks up a localized string similar to 將金鑰新增到現有或新的項目.
         /// </summary>
         internal static string AddTheKeyToAnExistingOrNewItem {
             get {
@@ -580,7 +581,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to API 伺服器 URL.
+        ///   Looks up a localized string similar to API 伺服器網址.
         /// </summary>
         internal static string ApiUrl {
             get {
@@ -598,7 +599,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to App 延伸功能.
+        ///   Looks up a localized string similar to 應用程式延伸功能.
         /// </summary>
         internal static string AppExtension {
             get {
@@ -724,7 +725,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已新增附件.
+        ///   Looks up a localized string similar to 附件已新增.
         /// </summary>
         internal static string AttachementAdded {
             get {
@@ -733,7 +734,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已刪除附件.
+        ///   Looks up a localized string similar to 附件已刪除.
         /// </summary>
         internal static string AttachmentDeleted {
             get {
@@ -832,7 +833,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 使用 Bitwarden 無障礙服務在應用程式和網站中自動填入您的登入資料。.
+        ///   Looks up a localized string similar to 使用 Bitwarden 無障礙服務，在應用程式和網站中自動填入您的登入資料。.
         /// </summary>
         internal static string AutofillAccessibilityDescription {
             get {
@@ -850,7 +851,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已啟用自動填入！.
+        ///   Looks up a localized string similar to 自動填入已啟用！.
         /// </summary>
         internal static string AutofillActivated {
             get {
@@ -868,7 +869,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 自動填入已阻止的 URI.
+        ///   Looks up a localized string similar to 自動填入已封鎖的網址.
         /// </summary>
         internal static string AutofillBlockedUris {
             get {
@@ -922,7 +923,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Android 自動填入框架用於協助將登入資訊填入裝置上的其他應用程式。.
+        ///   Looks up a localized string similar to Android 自動填入框架能協助在裝置上的其他應用程式當中，填入登入資訊。.
         /// </summary>
         internal static string AutofillServicesExplanationLong {
             get {
@@ -1021,7 +1022,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 不對下列 URI 提供自動填寫功能。.
+        ///   Looks up a localized string similar to 不對下列網址提供自動填寫功能。.
         /// </summary>
         internal static string AutoFillWillNotBeOfferedForTheseURIs {
             get {
@@ -1111,7 +1112,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden App 延伸功能.
+        ///   Looks up a localized string similar to Bitwarden 應用程式延伸功能.
         /// </summary>
         internal static string BitwardenAppExtension {
             get {
@@ -1120,7 +1121,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden App 延伸功能是新增登入資料至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden App 延伸功能的使用資訊。.
+        ///   Looks up a localized string similar to Bitwarden 應用程式延伸功能是新增登入資料至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 應用程式延伸功能的使用資訊。.
         /// </summary>
         internal static string BitwardenAppExtensionAlert2 {
             get {
@@ -1174,7 +1175,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 我們無法為您自動開啟 Android 自動填入設定選單。您可以從 Android 設定 &gt; 系統 &gt; 語言與輸入設定 &gt; 進階 &gt; 自動填入服務，手動到達自動填入設定選單。.
+        ///   Looks up a localized string similar to 我們無法為您自動開啟 Android 自動填入設定選單。您可以從 Android 設定 &gt; 系統 &gt; 語言與輸入設定 &gt; 進階 &gt; 自動填入服務，開啟自動填入設定選單。.
         /// </summary>
         internal static string BitwardenAutofillGoToSettings {
             get {
@@ -1255,7 +1256,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 開啟疊加層權限設定.
+        ///   Looks up a localized string similar to 開啟疊層權限設定.
         /// </summary>
         internal static string BitwardenAutofillServiceOpenOverlayPermissionSettings {
             get {
@@ -1264,7 +1265,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 當您選擇輸入欄位，看到 Bitwarden 的自動填入疊加層時，可以點選該提示以啟動自動填入服務。.
+        ///   Looks up a localized string similar to 當您選擇輸入欄位，看到 Bitwarden 的自動填入疊層時，可以點選該提示以啟動自動填入服務。.
         /// </summary>
         internal static string BitwardenAutofillServiceOverlay {
             get {
@@ -1273,7 +1274,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 3. 在 Android 應用程式設定畫面找到 Bitwarden，進入「顯示在其他應用程式上層」選項（在「進階」下），點選開關以啟用叠加層支援。.
+        ///   Looks up a localized string similar to 3. 在 Android 應用程式設定畫面找到 Bitwarden，進入「顯示在其他應用程式上層」選項（在「進階」下），點選開關以啟用叠層支援。.
         /// </summary>
         internal static string BitwardenAutofillServiceOverlayPermission {
             get {
@@ -1309,7 +1310,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 3. 在 Android 應用程式設定介面找到 Bitwarden，選擇「顯示在其他應用程式上層」（在「進階」下），並開啟開關以允許叠加層。.
+        ///   Looks up a localized string similar to 3. 在 Android 應用程式設定介面找到 Bitwarden，選擇「顯示在其他應用程式上層」（在「進階」下），並開啟開關以允許叠層。.
         /// </summary>
         internal static string BitwardenAutofillServiceStep3 {
             get {
@@ -1345,7 +1346,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 發卡組織.
+        ///   Looks up a localized string similar to 發卡銀行.
         /// </summary>
         internal static string Brand {
             get {
@@ -1381,7 +1382,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 無法一次編輯多組 URI.
+        ///   Looks up a localized string similar to 無法一次編輯多組網址.
         /// </summary>
         internal static string CannotEditMultipleURIsAtOnce {
             get {
@@ -1444,7 +1445,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 支付卡.
+        ///   Looks up a localized string similar to 信用卡.
         /// </summary>
         internal static string Cards {
             get {
@@ -1579,7 +1580,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 克隆.
+        ///   Looks up a localized string similar to 拓製.
         /// </summary>
         internal static string Clone {
             get {
@@ -1606,7 +1607,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 集合.
+        ///   Looks up a localized string similar to 分類.
         /// </summary>
         internal static string Collections {
             get {
@@ -1660,7 +1661,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 連絡 Bitwarden 支援.
+        ///   Looks up a localized string similar to 連絡 Bitwarden  客服.
         /// </summary>
         internal static string ContactBitwardenSupport {
             get {
@@ -1669,7 +1670,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 不能找到你想要的？請在 bitwarden.com 上聯絡 Bitwarden 支援。.
+        ///   Looks up a localized string similar to 找不到您想要的資訊？請在 bitwarden.com 上聯絡 Bitwarden 技術支援。.
         /// </summary>
         internal static string ContactSupportDescriptionLong {
             get {
@@ -1687,7 +1688,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 接下來造訪 App Store 嗎？.
+        ///   Looks up a localized string similar to 接下來前往 App Store 嗎？.
         /// </summary>
         internal static string ContinueToAppStore {
             get {
@@ -1705,7 +1706,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 接下來造訪幫助中心嗎？.
+        ///   Looks up a localized string similar to 接下來前往說明中心嗎？.
         /// </summary>
         internal static string ContinueToHelpCenter {
             get {
@@ -1714,7 +1715,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 接下來造訪 Web App 嗎？.
+        ///   Looks up a localized string similar to 接下來前往網頁應用程式嗎？.
         /// </summary>
         internal static string ContinueToWebApp {
             get {
@@ -1723,7 +1724,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 接下來造訪 {0} 嗎？.
+        ///   Looks up a localized string similar to 接下來前往 {0} 嗎？.
         /// </summary>
         internal static string ContinueToX {
             get {
@@ -1930,7 +1931,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 適用於進階使用者。您可以單獨指定各個服務的基礎 URL。.
+        ///   Looks up a localized string similar to 適用於進階使用者。您可以單獨指定各個服務的基礎網址。.
         /// </summary>
         internal static string CustomEnvironmentFooter {
             get {
@@ -2056,7 +2057,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 預設的 URI 一致性偵測方式.
+        ///   Looks up a localized string similar to 預設的統一資源標識符（URI）一致性偵測方式.
         /// </summary>
         internal static string DefaultUriMatchDetection {
             get {
@@ -2065,7 +2066,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 選擇在執行自動填入等動作時對登入資料進行 URI 一致性偵測的預設方式。.
+        ///   Looks up a localized string similar to 選擇在執行自動填入等動作時，登入資料的預設網址一致性偵測方式。.
         /// </summary>
         internal static string DefaultUriMatchDetectionDescription {
             get {
@@ -2200,7 +2201,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 停用此 Send 以阻止任何人存取.
+        ///   Looks up a localized string similar to 停用此傳送以阻止任何人存取.
         /// </summary>
         internal static string DisableSend {
             get {
@@ -2272,7 +2273,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dr.
+        ///   Looks up a localized string similar to 博士.
         /// </summary>
         internal static string Dr {
             get {
@@ -2281,7 +2282,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 使用 Draw-Over.
+        ///   Looks up a localized string similar to 使用覆蓋（Draw-Over）.
         /// </summary>
         internal static string DrawOver {
             get {
@@ -2362,7 +2363,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 編輯 URI.
+        ///   Looks up a localized string similar to 編輯網址.
         /// </summary>
         internal static string EditURI {
             get {
@@ -2389,7 +2390,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Email（必填）.
+        ///   Looks up a localized string similar to 電子郵件（必填）.
         /// </summary>
         internal static string EmailRequiredParenthesis {
             get {
@@ -2533,7 +2534,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 輸入 URI.
+        ///   Looks up a localized string similar to 輸入網址.
         /// </summary>
         internal static string EnterURI {
             get {
@@ -2569,7 +2570,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已儲存環境 URL。.
+        ///   Looks up a localized string similar to 已儲存環境網址。.
         /// </summary>
         internal static string EnvironmentSaved {
             get {
@@ -2614,7 +2615,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 重新啟用 App 延伸功能.
+        ///   Looks up a localized string similar to 重新啟用應用程式延伸功能.
         /// </summary>
         internal static string ExntesionReenable {
             get {
@@ -2776,7 +2777,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 啟用 App 延伸功能.
+        ///   Looks up a localized string similar to 啟用應用程式延伸功能.
         /// </summary>
         internal static string ExtensionEnable {
             get {
@@ -2785,7 +2786,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 在 Safari 中，使用分享圖示尋找 Bitwarden（提示：在選單最底行的右邊）。 .
+        ///   Looks up a localized string similar to 在 Safari 中，使用分享圖示尋找 Bitwarden（提示：在選單最底行的右邊）。.
         /// </summary>
         internal static string ExtensionInSafari {
             get {
@@ -2821,7 +2822,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 在 Safari 或 Chrome 中，使用分享圖示尋找 Bitwarden（提示：在分享選單的最底行的右邊）。.
+        ///   Looks up a localized string similar to 在 Safari 或 Chrome 中，使用分享圖示尋找 Bitwarden（提示：在分享選單最底行的右邊）。.
         /// </summary>
         internal static string ExtensionSetup2 {
             get {
@@ -2830,7 +2831,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 在選單中按一下 Bitwarden 圖示以啟動延伸功能。.
+        ///   Looks up a localized string similar to 在選單中按一下 Bitwarden 圖示，啟動延伸功能。.
         /// </summary>
         internal static string ExtensionTapIcon {
             get {
@@ -2929,7 +2930,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 使用 FIDO2 WebAuthn 驗證，您可以使用外部安全鑰匙進行驗證。.
+        ///   Looks up a localized string similar to 使用 FIDO2 WebAuthn 驗證，您可以使用外部安全金鑰進行驗證。.
         /// </summary>
         internal static string Fido2Desc {
             get {
@@ -2938,7 +2939,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 若要繼續，請準備好 FIDO2 WebAuthn 相容的安全鑰匙，在下個畫面按下 [驗證 WebAuthn]，接著遵循指引。.
+        ///   Looks up a localized string similar to 若要繼續，請準備好與 FIDO2 WebAuthn 相容的安全金鑰，在下個畫面按下 [驗證 WebAuthn]，接著依照指示操作。.
         /// </summary>
         internal static string Fido2Instruction {
             get {
@@ -3019,7 +3020,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bug 回報.
+        ///   Looks up a localized string similar to 回報程式錯誤.
         /// </summary>
         internal static string FileBugReport {
             get {
@@ -3145,7 +3146,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已新增資料夾。.
+        ///   Looks up a localized string similar to 資料夾已新增。.
         /// </summary>
         internal static string FolderCreated {
             get {
@@ -3163,7 +3164,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to （未分類）.
+        ///   Looks up a localized string similar to 無資料夾.
         /// </summary>
         internal static string FolderNone {
             get {
@@ -3181,7 +3182,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已更新資料夾。.
+        ///   Looks up a localized string similar to 已更新資料夾.
         /// </summary>
         internal static string FolderUpdated {
             get {
@@ -3208,7 +3209,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 格式：{0}，可用逗號分隔多組 URI。.
+        ///   Looks up a localized string similar to 格式：{0}，可用逗號分隔多組網址。.
         /// </summary>
         internal static string FormatXSeparateMultipleURIsWithAComma {
             get {
@@ -3442,7 +3443,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 身分伺服器 URL.
+        ///   Looks up a localized string similar to 身分伺服器網址.
         /// </summary>
         internal static string IdentityUrl {
             get {
@@ -3478,7 +3479,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您可以在 bitwarden.com 網頁版密碼庫批次匯入登入資料。現在要前往嗎？.
+        ///   Looks up a localized string similar to 您可以批次匯入 bitwarden.com 網頁版密碼庫的登入資料。現在要前往嗎？.
         /// </summary>
         internal static string ImportItemsConfirmation {
             get {
@@ -3541,7 +3542,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 無效的 API 金輪.
+        ///   Looks up a localized string similar to 無效的 API 金鑰.
         /// </summary>
         internal static string InvalidAPIKey {
             get {
@@ -3595,7 +3596,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URI 無效.
+        ///   Looks up a localized string similar to 網址無效.
         /// </summary>
         internal static string InvalidURI {
             get {
@@ -3667,7 +3668,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已共用項目。.
+        ///   Looks up a localized string similar to 項目已共用。.
         /// </summary>
         internal static string ItemShared {
             get {
@@ -3802,7 +3803,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 在幫助中心了解有關如何使用 Bitwarden 的更多資訊。.
+        ///   Looks up a localized string similar to 在說明中心了解有關如何使用 Bitwarden 的更多資訊。.
         /// </summary>
         internal static string LearnMoreAboutHowToUseBitwardenOnTheHelpCenter {
             get {
@@ -4020,7 +4021,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 登入已發起.
+        ///   Looks up a localized string similar to 已啟動登入.
         /// </summary>
         internal static string LogInInitiated {
             get {
@@ -4263,7 +4264,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 輸入的密碼不符合組織要求，請確認原則資訊後再試一次。.
+        ///   Looks up a localized string similar to 輸入的密碼不符合組織要求，請確認政策資訊後再試一次。.
         /// </summary>
         internal static string MasterPasswordPolicyValidationMessage {
             get {
@@ -4272,7 +4273,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 密碼的無效.
+        ///   Looks up a localized string similar to 無效的密碼.
         /// </summary>
         internal static string MasterPasswordPolicyValidationTitle {
             get {
@@ -4281,7 +4282,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 重新詢問主密碼幫助.
+        ///   Looks up a localized string similar to 主密碼重新詢問說明.
         /// </summary>
         internal static string MasterPasswordRePromptHelp {
             get {
@@ -4443,7 +4444,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 選擇您希望將這個項目移動至哪個組織。項目的擁有權將會轉移至該組織。轉移之後，您將不再是此項目的直接擁有者。.
+        ///   Looks up a localized string similar to 選擇您希望將這個項目移動至哪個組織。項目的所有權將會轉移至該組織。轉移之後，您將不再是此項目的直接擁有者。.
         /// </summary>
         internal static string MoveToOrgDesc {
             get {
@@ -4461,7 +4462,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mr.
+        ///   Looks up a localized string similar to 先生.
         /// </summary>
         internal static string Mr {
             get {
@@ -4470,7 +4471,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mrs.
+        ///   Looks up a localized string similar to 女士（已婚）.
         /// </summary>
         internal static string Mrs {
             get {
@@ -4479,7 +4480,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ms.
+        ///   Looks up a localized string similar to 女士（未婚）.
         /// </summary>
         internal static string Ms {
             get {
@@ -4506,7 +4507,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mx.
+        ///   Looks up a localized string similar to 非二元.
         /// </summary>
         internal static string Mx {
             get {
@@ -4569,7 +4570,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 將鎖定選項設定為「從不」可讓任何能夠存取您的裝置的人都可以使用您的密碼庫。 如果您使用此選項，則應確保您的裝置得到妥善的保護。.
+        ///   Looks up a localized string similar to 將鎖定選項設定為「從不」，任何能夠存取您的裝置的人即可可使用您的密碼庫。 如果您使用此選項，請確保您的裝置具有妥善的保護。.
         /// </summary>
         internal static string NeverLockWarning {
             get {
@@ -4587,7 +4588,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 新增要封鎖的 URI.
+        ///   Looks up a localized string similar to 新增要封鎖的網址.
         /// </summary>
         internal static string NewBlockedURI {
             get {
@@ -4623,7 +4624,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已建立新的 Send.
+        ///   Looks up a localized string similar to Send 已建立.
         /// </summary>
         internal static string NewSendCreated {
             get {
@@ -4632,7 +4633,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 新增 URI.
+        ///   Looks up a localized string similar to 新增統一資源標識符（URI）.
         /// </summary>
         internal static string NewUri {
             get {
@@ -4659,7 +4660,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 沒有可顯示的集合。.
+        ///   Looks up a localized string similar to 沒有可顯示的分類。.
         /// </summary>
         internal static string NoCollectionsToList {
             get {
@@ -4668,7 +4669,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您的密碼庫中沒有收藏。.
+        ///   Looks up a localized string similar to 您的密碼庫中沒有我的最愛。.
         /// </summary>
         internal static string NoFavorites {
             get {
@@ -4704,7 +4705,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 此集合中沒有項目。.
+        ///   Looks up a localized string similar to 此分類中沒有項目。.
         /// </summary>
         internal static string NoItemsCollection {
             get {
@@ -4785,7 +4786,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Nord.
+        ///   Looks up a localized string similar to Nord 主題.
         /// </summary>
         internal static string Nord {
             get {
@@ -4794,7 +4795,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您的帳戶中沒有 Send。.
+        ///   Looks up a localized string similar to 您的帳戶中沒有傳送。.
         /// </summary>
         internal static string NoSends {
             get {
@@ -4830,7 +4831,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 此帳戶已啟用兩步驟登入，但是本裝置不支援已設定的兩步驟登入方式。請使用已支援的裝置，及/或新增可以更好地跨裝置的兩步驟登入方式（例如驗證器應用程式）。.
+        ///   Looks up a localized string similar to 此帳戶已啟用兩步驟登入，但是本裝置不支援已設定的兩步驟登入方式。請使用已支援的裝置，及/或新增支援更多裝置的兩步驟登入方式（例如驗證器應用程式）。.
         /// </summary>
         internal static string NoTwoStepAvailable {
             get {
@@ -5011,7 +5012,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 選項預設值是透過 Bitwarden 程式的密碼產生器設定的。.
+        ///   Looks up a localized string similar to 選項預設值是透過 Bitwarden 程式的密碼產生器所設定。.
         /// </summary>
         internal static string OptionDefaults {
             get {
@@ -5029,7 +5030,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 選項已收合，點選展開。.
+        ///   Looks up a localized string similar to 選項已收合，點擊就會展開。.
         /// </summary>
         internal static string OptionsCollapsed {
             get {
@@ -5038,7 +5039,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 選項已展開，點選收合。.
+        ///   Looks up a localized string similar to 選項已展開，點擊就會收合。.
         /// </summary>
         internal static string OptionsExpanded {
             get {
@@ -5092,7 +5093,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 擁有權.
+        ///   Looks up a localized string similar to 所有權.
         /// </summary>
         internal static string Ownership {
             get {
@@ -5173,7 +5174,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 此動作受到保護。若要繼續，請重新輸入您的主密碼以驗證您的身分。.
+        ///   Looks up a localized string similar to 此動作受到保護。若要繼續，請重新輸入您的主密碼以驗證身分。.
         /// </summary>
         internal static string PasswordConfirmationDesc {
             get {
@@ -5182,7 +5183,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 此密碼在資料外洩事件中被暴露了 {0} 次，應立即變更它。.
+        ///   Looks up a localized string similar to 此密碼在資料外洩事件中被暴露了 {0} 次，應立即變更。.
         /// </summary>
         internal static string PasswordExposed {
             get {
@@ -5218,7 +5219,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 一個或多個組織原則正影響密碼產生器設定。.
+        ///   Looks up a localized string similar to 一個或多個組織原則正影響密碼產生器設定.
         /// </summary>
         internal static string PasswordGeneratorPolicyInEffect {
             get {
@@ -5254,7 +5255,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 選用。使用者需提供密碼才能存取此 Send。.
+        ///   Looks up a localized string similar to 可選擇要求使用者提供密碼才能存取此 Send。.
         /// </summary>
         internal static string PasswordInfo {
             get {
@@ -5263,7 +5264,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 密碼不可見，點選以顯示。.
+        ///   Looks up a localized string similar to 密碼不可見，按一下就能顯示。.
         /// </summary>
         internal static string PasswordIsNotVisibleTapToShow {
             get {
@@ -5272,7 +5273,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 密碼可見，點選以隱藏。.
+        ///   Looks up a localized string similar to 密碼可見，按一下就能隱藏。.
         /// </summary>
         internal static string PasswordIsVisibleTapToHide {
             get {
@@ -5326,7 +5327,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 待處理的登入請求。.
+        ///   Looks up a localized string similar to 待處理的登入請求.
         /// </summary>
         internal static string PendingLogInRequests {
             get {
@@ -5335,7 +5336,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 組織原則正在影響您的擁有權選項。.
+        ///   Looks up a localized string similar to 組織政策正在影響您的所有權選項。.
         /// </summary>
         internal static string PersonalOwnershipPolicyInEffect {
             get {
@@ -5344,7 +5345,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 由於某個企業原則，您被限制為儲存項目至您的個人密碼庫。將擁有權變更為組織，並從可用的集合中選擇。.
+        ///   Looks up a localized string similar to 由於某個企業政策，您被限制並且不得儲存項目至您的個人密碼庫。將所有權變更為組織，並選擇可用的分類。.
         /// </summary>
         internal static string PersonalOwnershipSubmitError {
             get {
@@ -5398,7 +5399,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 加號地址電子郵件.
+        ///   Looks up a localized string similar to 採用子地址的電子郵件.
         /// </summary>
         internal static string PlusAddressedEmail {
             get {
@@ -5417,7 +5418,7 @@ namespace Bit.App.Resources {
         
         /// <summary>
         ///   Looks up a localized string similar to 將您的相機對準 QR Code。
-        ///掃描將自動進行。.
+        ///裝置將自動掃描 QR Code。.
         /// </summary>
         internal static string PointYourCameraAtTheQRCode {
             get {
@@ -5435,7 +5436,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 最小複雜度為 {0}.
+        ///   Looks up a localized string similar to 最低複雜度為 {0}.
         /// </summary>
         internal static string PolicyInEffectMinComplexity {
             get {
@@ -5444,7 +5445,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 最小長度為 {0}.
+        ///   Looks up a localized string similar to 最短長度為 {0}.
         /// </summary>
         internal static string PolicyInEffectMinLength {
             get {
@@ -5669,7 +5670,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} 正在使用客戶管理加密的 SSO。繼續操作將移除您帳戶的主密碼並要求 SSO 登入。.
+        ///   Looks up a localized string similar to {0} 正在使用客戶管理加密的 SSO。繼續操作將移除您帳戶的主密碼並需要使用 SSO 登入。.
         /// </summary>
         internal static string RemoveMasterPasswordWarning {
             get {
@@ -5678,7 +5679,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 若您不想移除主密碼，您可以離開此組織。.
+        ///   Looks up a localized string similar to 若您不想移除主密碼，可以離開此組織。.
         /// </summary>
         internal static string RemoveMasterPasswordWarning2 {
             get {
@@ -5840,7 +5841,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 搜尋集合.
+        ///   Looks up a localized string similar to 搜尋分類.
         /// </summary>
         internal static string SearchCollection {
             get {
@@ -5849,7 +5850,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 搜尋檔案 Send.
+        ///   Looks up a localized string similar to 搜尋 Send 檔案.
         /// </summary>
         internal static string SearchFileSends {
             get {
@@ -5876,7 +5877,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 搜尋 Send.
+        ///   Looks up a localized string similar to 搜尋傳送.
         /// </summary>
         internal static string SearchSends {
             get {
@@ -5885,7 +5886,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 搜尋文字 Send.
+        ///   Looks up a localized string similar to 搜尋 Send 文字.
         /// </summary>
         internal static string SearchTextSends {
             get {
@@ -5948,7 +5949,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您必須至少選擇一個集合。.
+        ///   Looks up a localized string similar to 您必須至少選擇一個分類。.
         /// </summary>
         internal static string SelectOneCollection {
             get {
@@ -5966,7 +5967,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 自我裝載.
+        ///   Looks up a localized string similar to 自架.
         /// </summary>
         internal static string SelfHosted {
             get {
@@ -5975,7 +5976,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 自我裝載環境.
+        ///   Looks up a localized string similar to 自架環境.
         /// </summary>
         internal static string SelfHostedEnvironment {
             get {
@@ -5984,7 +5985,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 指定您內部部署的 Bitwarden 安裝之基礎 URL。.
+        ///   Looks up a localized string similar to 指定您內部部署的 Bitwarden 安裝之基礎網址。.
         /// </summary>
         internal static string SelfHostedEnvironmentFooter {
             get {
@@ -6029,7 +6030,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您必須驗證電子郵件才能夠使用檔案 Send。您可以在網頁版密碼庫中驗證您的電子郵件。.
+        ///   Looks up a localized string similar to 您必須驗證電子郵件才能夠將 Send 用於檔案上。您可以在網頁版密碼庫中驗證您的電子郵件。.
         /// </summary>
         internal static string SendFileEmailVerificationRequired {
             get {
@@ -6038,7 +6039,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 免費帳戶僅限於共用文字。若想使用檔案 Send，需要進階會員資格。.
+        ///   Looks up a localized string similar to 免費帳戶僅限於共用文字。若想使用檔案傳送，需要進階會員資格。.
         /// </summary>
         internal static string SendFilePremiumRequired {
             get {
@@ -6065,7 +6066,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Send 連結.
+        ///   Looks up a localized string similar to 傳送連結.
         /// </summary>
         internal static string SendLink {
             get {
@@ -6101,7 +6102,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已更新 Send。.
+        ///   Looks up a localized string similar to Send 已儲存.
         /// </summary>
         internal static string SendUpdated {
             get {
@@ -6110,7 +6111,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 再次傳送​​包含驗證碼的電子郵件.
+        ///   Looks up a localized string similar to 再次傳送包含驗證碼的電子郵件.
         /// </summary>
         internal static string SendVerificationCodeAgain {
             get {
@@ -6137,7 +6138,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 伺服器 URL.
+        ///   Looks up a localized string similar to 伺服器網址.
         /// </summary>
         internal static string ServerUrl {
             get {
@@ -6223,6 +6224,15 @@ namespace Bit.App.Resources {
         internal static string Settings {
             get {
                 return ResourceManager.GetString("Settings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 設定解鎖選項，變更您密碼庫的逾時動作。.
+        /// </summary>
+        internal static string SetUpAnUnlockOptionToChangeYourVaultTimeoutAction {
+            get {
+                return ResourceManager.GetString("SetUpAnUnlockOptionToChangeYourVaultTimeoutAction", resourceCulture);
             }
         }
         
@@ -6335,7 +6345,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Solarized Dark 主題.
+        ///   Looks up a localized string similar to Solarized 深色主題.
         /// </summary>
         internal static string SolarizedDark {
             get {
@@ -6416,7 +6426,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 提交當機報告以幫助 Bitwarden 改善應用程式穩定性。.
+        ///   Looks up a localized string similar to 提交當機報告，幫助 Bitwarden 改善應用程式穩定性。.
         /// </summary>
         internal static string SubmitCrashLogsDescription {
             get {
@@ -6569,7 +6579,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 主題變更將於重新啟動應用程式後生效。.
+        ///   Looks up a localized string similar to 主題變更將於應用程式重新啟用後生效。.
         /// </summary>
         internal static string ThemeAppliedOnRestart {
             get {
@@ -6587,7 +6597,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 變更應用程式的主題色彩。.
+        ///   Looks up a localized string similar to 變更應用程式的色彩主題。.
         /// </summary>
         internal static string ThemeDescription {
             get {
@@ -6596,7 +6606,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 密碼金鑰不會被複製到克隆的項目。 您想繼續克隆該項目嗎？.
+        ///   Looks up a localized string similar to 密碼金鑰不會被複製到拓製的項目。 您想繼續拓製該項目嗎？.
         /// </summary>
         internal static string ThePasskeyWillNotBeCopiedToTheClonedItemDoYouWantToContinueCloningThisItem {
             get {
@@ -6605,7 +6615,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 沒有封鎖的 URI.
+        ///   Looks up a localized string similar to 沒有被封鎖的統一資源標識符（URI）.
         /// </summary>
         internal static string ThereAreNoBlockedURIs {
             get {
@@ -6623,7 +6633,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您的密碼庫中沒有與搜尋一致的項目.
+        ///   Looks up a localized string similar to 您的密碼庫中沒有與搜尋目標一致的項目.
         /// </summary>
         internal static string ThereAreNoItemsThatMatchTheSearch {
             get {
@@ -6632,7 +6642,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已經封鎖 URI {0}.
+        ///   Looks up a localized string similar to 已經封鎖網址 {0}.
         /// </summary>
         internal static string TheURIXIsAlreadyBlocked {
             get {
@@ -6695,7 +6705,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 稱呼.
+        ///   Looks up a localized string similar to 稱謂.
         /// </summary>
         internal static string Title {
             get {
@@ -6749,7 +6759,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 譯者.
+        ///   Looks up a localized string similar to 翻譯.
         /// </summary>
         internal static string Translations {
             get {
@@ -6785,7 +6795,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 不允許使用公用裝置.
+        ///   Looks up a localized string similar to 使用公用裝置來關閉.
         /// </summary>
         internal static string TurnOffUsingPublicDevice {
             get {
@@ -6857,7 +6867,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 支付卡.
+        ///   Looks up a localized string similar to 信用卡.
         /// </summary>
         internal static string TypeCard {
             get {
@@ -7055,7 +7065,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您的主密碼最近被您的組織管理者變更過。您必須現在更新主密碼才能存取密碼庫。繼續操作會登出您目前的工作階段，並要求您重新登入帳戶。其他裝置上的活動工作階段最多會保持一個小時。.
+        ///   Looks up a localized string similar to 您的主密碼最近被您的組織管理者變更過。您必須現在更新主密碼才能存取密碼庫。繼續操作會登出您目前的工作階段，並要求您重新登入帳戶。其他裝置上的活動工作階段最多會持續一個小時。.
         /// </summary>
         internal static string UpdateMasterPasswordWarning {
             get {
@@ -7073,7 +7083,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您的主密碼不符合您的組織政策之一或多個要求。您必須立即更新您的主密碼以存取密碼庫。進行此操作將登出您目前的工作階段，需要您重新登入。其他裝置上的工作階段可能繼續長達一小時。.
+        ///   Looks up a localized string similar to 您的主密碼不符合您的組織政策之一或多個要求。您必須立即更新您的主密碼以存取密碼庫。進行此操作將登出您目前的工作階段，需要您重新登入。其他裝置上的工作階段可能持續長達一小時。.
         /// </summary>
         internal static string UpdateWeakMasterPasswordWarning {
             get {
@@ -7100,7 +7110,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URI.
+        ///   Looks up a localized string similar to 網址.
         /// </summary>
         internal static string URI {
             get {
@@ -7109,7 +7119,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URI 一致性偵測.
+        ///   Looks up a localized string similar to 網址一致性偵測.
         /// </summary>
         internal static string URIMatchDetection {
             get {
@@ -7118,7 +7128,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URI {0}.
+        ///   Looks up a localized string similar to 統一資源標識符（URI） {0}.
         /// </summary>
         internal static string URIPosition {
             get {
@@ -7127,7 +7137,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已刪除 URI.
+        ///   Looks up a localized string similar to 已刪除網址.
         /// </summary>
         internal static string URIRemoved {
             get {
@@ -7136,7 +7146,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URIs.
+        ///   Looks up a localized string similar to 網址.
         /// </summary>
         internal static string URIs {
             get {
@@ -7145,7 +7155,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 已儲存 URI.
+        ///   Looks up a localized string similar to 已儲存網址.
         /// </summary>
         internal static string URISaved {
             get {
@@ -7199,7 +7209,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 如果您選擇的鍵盤支持，請使用内嵌式自動填入。否則，使用預設覆蓋。.
+        ///   Looks up a localized string similar to 如果您選擇的鍵盤支持，請使用内嵌式自動填入。若不支持，請使用預設疊層。.
         /// </summary>
         internal static string UseInlineAutofillExplanationLong {
             get {
@@ -7226,7 +7236,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 使用此裝置批准來自其他裝置的登入要求。.
+        ///   Looks up a localized string similar to 使用此裝置批准來自其他裝置的登入要求.
         /// </summary>
         internal static string UseThisDeviceToApproveLoginRequestsMadeFromOtherDevices {
             get {
@@ -7262,7 +7272,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} 已複製。.
+        ///   Looks up a localized string similar to {0} 已複製.
         /// </summary>
         internal static string ValueHasBeenCopied {
             get {
@@ -7298,7 +7308,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您的密碼庫已鎖定。請驗證身分以繼續。.
+        ///   Looks up a localized string similar to 您的密碼庫已鎖定，請先驗證身分才能繼續。.
         /// </summary>
         internal static string VaultLockedIdentity {
             get {
@@ -7424,7 +7434,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 驗證碼 (TOTP).
+        ///   Looks up a localized string similar to 驗證碼（TOTP）.
         /// </summary>
         internal static string VerificationCodeTotp {
             get {
@@ -7433,7 +7443,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 無法傳送​​驗證電子郵件。請再試一次。.
+        ///   Looks up a localized string similar to 無法傳送驗證電子郵件。請再試一次。.
         /// </summary>
         internal static string VerificationEmailNotSent {
             get {
@@ -7622,7 +7632,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 網頁版密碼庫伺服器 URL.
+        ///   Looks up a localized string similar to 網頁版密碼庫伺服器網址.
         /// </summary>
         internal static string WebVaultUrl {
             get {
@@ -7766,7 +7776,25 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 您的要求已傳送給您的管理員.
+        ///   Looks up a localized string similar to 您的組織的權限已更新，因此您必須設定主密碼。.
+        /// </summary>
+        internal static string YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword {
+            get {
+                return ResourceManager.GetString("YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 您的組織需要您設定主密碼。.
+        /// </summary>
+        internal static string YourOrganizationRequiresYouToSetAMasterPassword {
+            get {
+                return ResourceManager.GetString("YourOrganizationRequiresYouToSetAMasterPassword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 您的要求已傳送給您的管理員。.
         /// </summary>
         internal static string YourRequestHasBeenSentToYourAdmin {
             get {
@@ -7802,7 +7830,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to YubiKey 安全鑰匙.
+        ///   Looks up a localized string similar to YubiKey 安全金鑰.
         /// </summary>
         internal static string YubiKeyTitle {
             get {

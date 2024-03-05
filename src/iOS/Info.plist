@@ -9,7 +9,7 @@
 	<key>CFBundleName</key>
 	<string>Bitwarden</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.8bit.bitwarden</string>
+	<string>com.steps.bitwarden</string>
 	<key>CFBundleShortVersionString</key>
 	<string>2023.10.1</string>
 	<key>CFBundleVersion</key>
