@@ -416,7 +416,7 @@
     <value>應用程式延伸功能</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務，在應用程式和網站中自動填入您的登入資料。</value>
+    <value>使用 Bitwarden 無障礙服務，在應用程式和網站中自動填入您的登入資訊。</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>自動填入服務</value>
@@ -428,19 +428,19 @@
     <value>Bitwarden 應用程式延伸功能</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Bitwarden 應用程式延伸功能是新增登入資料至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 應用程式延伸功能的使用資訊。</value>
+    <value>Bitwarden 應用程式延伸功能是新增登入資訊至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 應用程式延伸功能的使用資訊。</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>在 Safari 和其他應用程式中使用 Bitwarden 自動填入登入資料。</value>
+    <value>在 Safari 和其他應用程式中使用 Bitwarden 自動填入登入資訊。</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
     <value>Bitwarden 自動填入服務</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務自動填入您的登入資料。</value>
+    <value>使用 Bitwarden 無障礙服務自動填入您的登入資訊。</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
-    <value>變更電子郵件</value>
+    <value>變更電子郵件地址</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
     <value>您可以在 bitwarden.com 網頁版密碼庫變更電子郵件地址。現在要前往嗎？</value>
@@ -490,7 +490,7 @@
     <value>您已經準備好登入了！</value>
   </data>
   <data name="ExtensionSetup" xml:space="preserve">
-    <value>現在可以在 Safari、Chrome 以及其他支援的程式中方便地存取您的登入資料了。</value>
+    <value>現在可以在 Safari、Chrome 以及其他支援的程式中方便地存取您的登入資訊了。</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
     <value>在 Safari 或 Chrome 中，使用分享圖示尋找 Bitwarden（提示：在分享選單最底行的右邊）。</value>
@@ -517,10 +517,10 @@
     <value>匯入項目</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>您可以批次匯入 bitwarden.com 網頁版密碼庫的登入資料。現在要前往嗎？</value>
+    <value>您可以批次匯入 bitwarden.com 網頁版密碼庫的登入資訊。現在要前往嗎？</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
-    <value>快速從其他密碼管理應用程式中批次匯入您的登入資料。</value>
+    <value>快速從其他密碼管理應用程式中批次匯入您的登入資訊。</value>
   </data>
   <data name="LastSync" xml:space="preserve">
     <value>上次同步於：</value>
@@ -604,13 +604,13 @@
     <value>您的密碼庫中沒有我的最愛。</value>
   </data>
   <data name="NoItems" xml:space="preserve">
-    <value>您的密碼庫中沒有登入資料。</value>
+    <value>您的密碼庫中沒有登入資訊。</value>
   </data>
   <data name="NoItemsTap" xml:space="preserve">
-    <value>您的密碼庫中沒有此網站/程式的登入資料。點選新增一個。</value>
+    <value>您的密碼庫中沒有此網站/程式的登入資訊。點選新增一個。</value>
   </data>
   <data name="NoUsernamePasswordConfigured" xml:space="preserve">
-    <value>此登入資料沒有使用者名稱或密碼。</value>
+    <value>此登入資訊沒有使用者名稱或密碼。</value>
   </data>
   <data name="OkGotIt" xml:space="preserve">
     <value>好的，我知道了！</value>
@@ -635,7 +635,7 @@
     <value>密碼提示</value>
   </data>
   <data name="PasswordHintAlert" xml:space="preserve">
-    <value>已寄出包含您主密碼提示的電子郵件。</value>
+    <value>已寄出主密碼提示信。</value>
   </data>
   <data name="PasswordOverrideAlert" xml:space="preserve">
     <value>您確定要覆寫目前的密碼嗎？</value>
@@ -748,7 +748,7 @@
     <value>當您選擇輸入欄位，看到 Bitwarden 的自動填入疊層時，可以點選該提示以啟動自動填入服務。</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
-    <value>按此通知以自動填入存在密碼庫的登入資料。</value>
+    <value>按此通知以自動填入存在密碼庫的登入資訊。</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAccessibilitySettings" xml:space="preserve">
     <value>開啟無障礙設定</value>
@@ -775,7 +775,7 @@
     <value>狀態</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Bitwarden 自動填入服務是新增登入資料的最簡單方法。請至「設定」頁面深入了解使用 Bitwarden 自動填入服務的方法 。</value>
+    <value>Bitwarden 自動填入服務是新增登入資訊的最簡單方法。請至「設定」頁面深入了解使用 Bitwarden 自動填入服務的方法 。</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>自動填入</value>
@@ -814,7 +814,7 @@
     <comment>For 2FA</comment>
   </data>
   <data name="EnterVerificationCodeEmail" xml:space="preserve">
-    <value>輸入已傳送至電子郵件信箱 {0} 的 6 位數驗證碼。</value>
+    <value>輸入傳送至電子郵件地址 {0} 的 6 位數驗證碼。</value>
     <comment>For 2FA</comment>
   </data>
   <data name="LoginUnavailable" xml:space="preserve">
@@ -907,7 +907,7 @@
     <value>複製 TOTP</value>
   </data>
   <data name="CopyTotpAutomaticallyDescription" xml:space="preserve">
-    <value>若登入資料已包含驗證器金鑰，在自動填入此登入資料時，TOTP 驗證碼將複製至您的剪貼簿。</value>
+    <value>若登入資訊已包含驗證器金鑰，在自動填入此登入資訊時，TOTP 驗證碼將複製至您的剪貼簿。</value>
   </data>
   <data name="CopyTotpAutomatically" xml:space="preserve">
     <value>自動複製 TOTP</value>
@@ -984,7 +984,7 @@
     <value>網頁版密碼庫伺服器網址</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContentOld" xml:space="preserve">
-    <value>按此通知以檢視密碼庫中的登入資料。</value>
+    <value>按此通知以檢視密碼庫中的登入資訊。</value>
   </data>
   <data name="CustomFields" xml:space="preserve">
     <value>自訂欄位</value>
@@ -1008,7 +1008,7 @@
     <value>身分</value>
   </data>
   <data name="TypeLogin" xml:space="preserve">
-    <value>登入</value>
+    <value>登入資訊</value>
   </data>
   <data name="TypeSecureNote" xml:space="preserve">
     <value>安全筆記</value>
@@ -1137,7 +1137,7 @@
     <value>顯示網站圖示</value>
   </data>
   <data name="ShowWebsiteIconsDescription" xml:space="preserve">
-    <value>在每個登入資料旁顯示一個可辨識的圖片。</value>
+    <value>在每個登入資訊旁顯示一個可辨識的圖片。</value>
   </data>
   <data name="IconsUrl" xml:space="preserve">
     <value>圖示伺服器 URL</value>
@@ -1289,7 +1289,7 @@
     <value>您必須先登入 Bitwarden 應用程式，才可以使用自動填入功能。</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
-    <value>登入應用程式和網站時，您可以透過鍵盤輕鬆存取您的登入資料。</value>
+    <value>登入應用程式和網站時，您可以透過鍵盤輕鬆存取您的登入資訊。</value>
   </data>
   <data name="AutofillSetup2" xml:space="preserve">
     <value>建議您在「設定」中關閉您不再使用的其他自動填入應用程式。</value>
@@ -1319,7 +1319,7 @@
     <value>密碼自動填入</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>使用 Bitwarden 密碼自動填入延伸功能是新增登入資料至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 密碼自動填入延伸功能的使用資訊。</value>
+    <value>使用 Bitwarden 密碼自動填入延伸功能是新增登入資訊至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 密碼自動填入延伸功能的使用資訊。</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>無效的電子郵件地址。</value>
@@ -1331,7 +1331,7 @@
     <value>身分</value>
   </data>
   <data name="Logins" xml:space="preserve">
-    <value>登入資料</value>
+    <value>登入資訊</value>
   </data>
   <data name="SecureNotes" xml:space="preserve">
     <value>安全筆記</value>
@@ -1486,7 +1486,7 @@
     <value>設定您用來解鎖 Bitwarden 的 PIN 碼。您的 PIN 設定將在您完全結束本應用程式時被重設。</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
-    <value>已在 {1} 以 {0} 身份登入。</value>
+    <value>已使用 {0} 身份登入 {1}。</value>
     <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
@@ -1534,7 +1534,7 @@
     <comment>Default URI match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>選擇在執行自動填入等動作時，登入資料的預設網址一致性偵測方式。</value>
+    <value>選擇在執行自動填入等動作時，登入資訊的預設網址一致性偵測方式。</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>主題</value>
@@ -1577,7 +1577,7 @@
     <value>自動填入已封鎖的網址</value>
   </data>
   <data name="AskToAddLogin" xml:space="preserve">
-    <value>詢問新增登入資料</value>
+    <value>詢問是否要新增登入資訊</value>
   </data>
   <data name="AskToAddLoginDescription" xml:space="preserve">
     <value>在密碼庫中找不到相符的項目時詢問是否新增項目。</value>
@@ -1829,10 +1829,10 @@
     <value>使用無障礙</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資料。 啟用後，將在選擇登入欄位時顯示彈出式視窗。</value>
+    <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資訊。 啟用後，將在選擇登入欄位時顯示彈出式視窗。</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資料。（需同時啟用覆蓋（Draw-Over）功能）</value>
+    <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資訊。（需同時啟用覆蓋（Draw-Over）功能）</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
     <value>使用 Bitwarden 無障礙服務來使用自動填入快速控制圖塊，和/或使用覆蓋（Draw-Over）來顯示彈出式視窗（如果已開啟）。</value>
@@ -1847,7 +1847,7 @@
     <value>啟用後，在選擇登入欄位時將允許 Bitwarden 無障礙服務顯示彈出式視窗。</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>若啟用，當選擇登入欄位自動填入您的登入資料時，Bitwarden 無障礙服務將顯示一個彈出式視窗。</value>
+    <value>若啟用，當選擇登入欄位自動填入您的登入資訊時，Bitwarden 無障礙服務將顯示一個彈出式視窗。</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>若啟用，無障礙將顯示一個彈出式視窗以增強不支援 Android 自動填入框架的舊應用程式的自動填入服務。</value>
@@ -2059,7 +2059,7 @@
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>您必須驗證電子郵件才能夠將 Send 用於檔案上。您可以在網頁版密碼庫中驗證您的電子郵件。</value>
+    <value>您必須驗證電子郵件地址，才可以使用 Send 傳送檔案。您可以到網頁版密碼庫進行驗證。</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
@@ -2186,7 +2186,7 @@
     <value>無效的驗證碼</value>
   </data>
   <data name="RequestOTP" xml:space="preserve">
-    <value>要求一次性密碼</value>
+    <value>要求單次使用密碼</value>
   </data>
   <data name="SendCode" xml:space="preserve">
     <value>傳送驗證碼</value>
@@ -2207,13 +2207,13 @@
     <value>重新傳送驗證碼</value>
   </data>
   <data name="AVerificationCodeWasSentToYourEmail" xml:space="preserve">
-    <value>已傳送驗證碼至您的電子郵件信箱</value>
+    <value>已傳送驗證碼至您的電子郵件地址</value>
   </data>
   <data name="AnErrorOccurredWhileSendingAVerificationCodeToYourEmailPleaseTryAgain" xml:space="preserve">
-    <value>將驗證碼傳送至您的電子郵件信箱時發生錯誤。請再試一次</value>
+    <value>將驗證碼傳送至您的電子郵件地址時發生錯誤。請再試一次</value>
   </data>
   <data name="EnterTheVerificationCodeThatWasSentToYourEmail" xml:space="preserve">
-    <value>輸入傳送至您電子郵件信箱的驗證碼</value>
+    <value>輸入傳送至您電子郵件地址的驗證碼</value>
   </data>
   <data name="SubmitCrashLogs" xml:space="preserve">
     <value>提交當機記錄</value>
@@ -2273,7 +2273,7 @@
     <value>需要進階版訂閲</value>
   </data>
   <data name="CannotAddAuthenticatorKey" xml:space="preserve">
-    <value>無法添加驗證器金鑰嗎？ </value>
+    <value>無法新增驗證器金鑰嗎？ </value>
   </data>
   <data name="ScanQRCode" xml:space="preserve">
     <value>掃描 QR Code</value>
@@ -2382,7 +2382,7 @@
     <value>使用者名稱類型</value>
   </data>
   <data name="PlusAddressedEmail" xml:space="preserve">
-    <value>採用子地址的電子郵件</value>
+    <value>使用加號的電子郵件子地址</value>
   </data>
   <data name="CatchAllEmail" xml:space="preserve">
     <value>Catch-all 電子郵件</value>
@@ -2394,7 +2394,7 @@
     <value>隨機單字</value>
   </data>
   <data name="EmailRequiredParenthesis" xml:space="preserve">
-    <value>電子郵件（必填）</value>
+    <value>電子郵件地址（必填）</value>
   </data>
   <data name="DomainNameRequiredParenthesis" xml:space="preserve">
     <value>網域名稱（必填）</value>
@@ -2466,7 +2466,7 @@
     <value>無障礙服務聲明</value>
   </data>
   <data name="AccessibilityDisclosureText" xml:space="preserve">
-    <value>Bitwarden 使用無障礙服務搜寻應用程式和網站中的登入欄位，然後建立適當的欄位 ID，以便在找到應用程式或網站的匹配項目時輸入用戶名和密碼。 我們不會儲存此服務提供給我們的任何資訊，也不會試圖控制憑證文字輸入以外的任何螢幕元素。</value>
+    <value>Bitwarden 使用無障礙服務搜尋應用程式和網站中的登入欄位，然後建立適當的欄位 ID，以便在應用程式或網站中有符合項目時輸入用戶名稱與密碼。我們不會儲存此服務提供給我們的任何資訊，也不會試圖控制畫面中，登入資訊欄位外的任何元素。</value>
   </data>
   <data name="Accept" xml:space="preserve">
     <value>接受</value>
