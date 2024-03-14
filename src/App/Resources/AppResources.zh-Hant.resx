@@ -1434,7 +1434,7 @@
     <value>選擇您希望將這個項目移動至哪個組織。項目的所有權將會轉移至該組織。轉移之後，您將不再是此項目的直接擁有者。</value>
   </data>
   <data name="NumberOfWords" xml:space="preserve">
-    <value>單字數量</value>
+    <value>單字數</value>
   </data>
   <data name="Passphrase" xml:space="preserve">
     <value>密碼短語</value>
@@ -1592,7 +1592,7 @@
     <value>主題變更將於應用程式重新啟用後生效。</value>
   </data>
   <data name="Capitalize" xml:space="preserve">
-    <value>大寫</value>
+    <value>首字母大寫</value>
     <comment>ex. Uppercase the first character of a word.</comment>
   </data>
   <data name="IncludeNumber" xml:space="preserve">
@@ -1829,7 +1829,7 @@
     <value>使用無障礙</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資訊。 啟用後，將在選擇登入欄位時顯示彈出式視窗。</value>
+    <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資訊。啟用後，將在選擇登入欄位時顯示彈出式視窗。</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
     <value>使用 Bitwarden 無障礙服務在應用程式和網站上自動填入您的登入資訊。（需同時啟用覆蓋（Draw-Over）功能）</value>
@@ -1884,7 +1884,7 @@
     <value>您想以 Send 傳送的文字。</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>存取此 Send 時，將預設隱藏文字</value>
+    <value>存取此 Send 時，預設隱藏文字</value>
     <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
@@ -2298,7 +2298,7 @@
 選擇「新增 TOTP」即可安全地儲存金鑰</value>
   </data>
   <data name="NeverLockWarning" xml:space="preserve">
-    <value>將鎖定選項設定為「從不」，任何能夠存取您的裝置的人即可可使用您的密碼庫。 如果您使用此選項，請確保您的裝置具有妥善的保護。</value>
+    <value>若將鎖定選項設定為「永不」，任何能夠存取您的裝置的人都可以使用您的密碼庫。如果使用此選項，請確保裝置受到妥善的保護。</value>
   </data>
   <data name="EnvironmentPageUrlsError" xml:space="preserve">
     <value>一或多個輸入的網址無效，請修正後再嘗試儲存。</value>
@@ -2657,7 +2657,7 @@
     <value>密碼金鑰不會被複製</value>
   </data>
   <data name="ThePasskeyWillNotBeCopiedToTheClonedItemDoYouWantToContinueCloningThisItem" xml:space="preserve">
-    <value>密碼金鑰不會被複製到拓製的項目。 您想繼續拓製該項目嗎？</value>
+    <value>不會將密碼金鑰複製到拓製的項目中。您想繼續拓製該項目嗎？</value>
   </data>
   <data name="CopyApplication" xml:space="preserve">
     <value>複製應用程式</value>
