@@ -946,7 +946,7 @@
     <value>更新加密金鑰前不能使用此功能。</value>
   </data>
   <data name="EncryptionKeyMigrationRequiredDescriptionLong" xml:space="preserve">
-    <value>需要遷移加密金鑰。請透過網頁版密碼庫登入以更新您的加密金鑰。</value>
+    <value>需要遷移加密金鑰。請透過網頁版登入密碼庫以更新您的加密金鑰。</value>
   </data>
   <data name="LearnMore" xml:space="preserve">
     <value>深入了解</value>
