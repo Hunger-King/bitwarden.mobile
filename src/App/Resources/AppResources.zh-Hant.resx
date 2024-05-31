@@ -206,7 +206,7 @@
     <value>回報程式錯誤</value>
   </data>
   <data name="FileBugReportDescription" xml:space="preserve">
-    <value>到我們的 GitHub 儲存庫中開啟一個話題。</value>
+    <value>到我們的 GitHub 儲存庫中開啟一個 issue。</value>
   </data>
   <data name="FingerprintDirection" xml:space="preserve">
     <value>使用指紋進行驗證。</value>
@@ -428,7 +428,7 @@
     <value>Bitwarden 應用程式延伸功能</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Bitwarden 應用程式延伸功能是新增登入資訊至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 應用程式延伸功能的使用資訊。</value>
+    <value>新增登入資訊至密碼庫的最簡單方法，就是透過 Bitwarden 應用程式延伸功能。請至「設定」頁面了解更多關於 Bitwarden 應用程式延伸功能的使用資訊。</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
     <value>在 Safari 和其他應用程式中使用 Bitwarden 自動填入登入資訊。</value>
@@ -775,7 +775,7 @@
     <value>狀態</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Bitwarden 自動填入服務是新增登入資訊的最簡單方法。請至「設定」頁面深入了解使用 Bitwarden 自動填入服務的方法 。</value>
+    <value>使用 Bitwarden 自動填入服務，是新增登入資訊的最簡單方法。請至「設定」頁面深入了解使用 Bitwarden 自動填入服務的方法 。</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>自動填入</value>
@@ -946,7 +946,7 @@
     <value>更新加密金鑰前不能使用此功能。</value>
   </data>
   <data name="EncryptionKeyMigrationRequiredDescriptionLong" xml:space="preserve">
-    <value>需要遷移加密金鑰。請透過網頁版密碼庫登入以更新您的加密金鑰。</value>
+    <value>需要遷移加密金鑰。請透過網頁版登入密碼庫以更新您的加密金鑰。</value>
   </data>
   <data name="LearnMore" xml:space="preserve">
     <value>深入了解</value>
@@ -1319,7 +1319,7 @@
     <value>密碼自動填入</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>使用 Bitwarden 密碼自動填入延伸功能是新增登入資訊至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 密碼自動填入延伸功能的使用資訊。</value>
+    <value>使用 Bitwarden 密碼自動填入延伸功能，是新增登入資訊至密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 密碼自動填入延伸功能的使用資訊。</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>無效的電子郵件地址。</value>
